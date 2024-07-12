@@ -1,8 +1,9 @@
 # epai5session5-template
 In this session we dealth with Functional parameters. We learnt about `**args`, `**kwargs`.
+**Results** <br/>
+![op](results.png)
 
-
-###Functions
+### Functions
 The assignment consisted of writing the following functions and handing different **TypeError** and **ValueError**.
 
 ##### time_it
